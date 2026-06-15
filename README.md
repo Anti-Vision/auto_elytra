@@ -7,6 +7,9 @@
   <a href="https://modrinth.com/organization/anti-vision">
     <img src="https://wsrv.nl/?url=https%3A%2F%2Ftr7zw.github.io%2Fuikit%2Fsocial_buttons_icon%2FModrinth-Button-64.png&n=-1" alt="Modrinth" style="vertical-align: middle;">
   </a>
+  <a href="https://github.com/Anti-Vision/auto_elytra">
+    <img src="https://wsrv.nl/?url=https%3A%2F%2Ftr7zw.github.io%2Fuikit%2Fsocial_buttons_icon%2FGithub-Button-64.png&n=-1" alt="GitHub" style="vertical-align: middle;">
+  </a>
 </p>
 
 ## How It Works
