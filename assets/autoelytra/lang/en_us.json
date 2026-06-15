@@ -1,0 +1,6 @@
+{
+  "autoelytra.enabled": "Auto Elytra is enabled",
+  "autoelytra.disabled": "Auto Elytra is disabled",
+  "autoelytra.keybind": "Toggle Auto Elytra",
+  "key.category.autoelytra.generic": "Auto Elytra"
+}
