@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Fabric-Loom-Client-Only-Entries: com/mytimestudios/autoelytra/AutoElytra
+Fabric-Loom-Client-Only-Entries: com/av/autoelytra/AutoElytra
  Client.class;assets/autoelytra/lang/en_us.json
 Fabric-Loom-Split-Environment: true
 Fabric-Mapping-Namespace: official
