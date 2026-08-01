@@ -23,12 +23,12 @@
 
 ## Quick Info
 - **Client-Side Only**.
-- **Some servers** might call it **“unfair.”**
+- **Some servers** might call it **“unfair/cheating.”**
 - **Required Dependencies:** [fabric-api](https://modrinth.com/mod/fabric-api)
-- **Fabric Version:** Use **0.19.3** for it to work.
+- **Fabric Version:** Use **0.19.3** (or higher if available) for it to work.
 
 ## Other
 
 - If you find a bug or would like to suggest something, do so on our [Discord](https://discord.gg/T5mMeaBDbY).
-- A special thanks to [NimajnebEC](https://modrinth.com/user/JTzs2O9Y), [JavaJumper](https://modrinth.com/user/6phhjVB0), and some other dudes who I'm too lazy to add.
+- A special thanks to [NimajnebEC](https://modrinth.com/user/JTzs2O9Y), [JavaJumper](https://modrinth.com/user/6phhjVB0).
 - **Tags:** Auto Elytra, Elytra Swap, Elytra
