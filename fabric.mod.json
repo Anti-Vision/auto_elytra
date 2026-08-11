@@ -1,10 +1,12 @@
 {
 	"schemaVersion": 1,
 	"id": "autoelytra",
-	"version": "1.4.1",
+	"version": "1.4.2-26.2",
 	"name": "Auto Elytra",
 	"description": "Automatically swaps between an elytra and the best available chestplate.",
-	"authors": ["Anti-Vison"],
+	"authors": [
+		"Anti-Vison"
+	],
 	"contact": {},
 	"license": "MIT",
 	"icon": "assets/autoelytra/icon.png",
