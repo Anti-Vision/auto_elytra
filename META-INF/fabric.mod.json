@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "autoelytra",
+	"version": "1.4.2-26.2",
+	"name": "Auto Elytra",
+	"description": "Automatically swaps between an elytra and the best available chestplate.",
+	"authors": [
+		"Anti-Vison"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/autoelytra/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.av.autoelytra.AutoElytraClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": ">=26.2 <26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
